@@ -1,0 +1,9 @@
+.jumbotron-color {
+    background-color: cadetblue;
+    font-family: 'Arvo', serif;
+    -webkit-text-stroke: 1px #000;
+    -webkit-text-fill-color: transparent;
+}
+.text-azure {
+    color: azure;
+}
